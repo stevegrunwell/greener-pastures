@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Greener Pastures: Infrastructure from the Ground Up",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "stevegrunwell",
+    "githubRepository": "greener-pastures"
+  }
+}
