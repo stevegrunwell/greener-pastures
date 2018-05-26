@@ -44,10 +44,10 @@
         "deploybot.md",
         "performance.md",
         "cloudflare.md",
-        "analytics.md",
         "email.md",
         "marketing-email.md",
         "transactional-email.md",
+        "analytics.md",
         "backups.md",
         "logs.md"
     ],
