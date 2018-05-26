@@ -358,3 +358,30 @@ body {
     margin-bottom: 2em; }
   .slides .title-slide a {
     color: #396b93; }
+
+.intro-slide .slides {
+  zoom: 0 !important;
+  perspective: none; }
+  .intro-slide .slides .intro-slide {
+    position: fixed;
+    left: 0;
+    top: 0 !important;
+    right: 0;
+    bottom: 0;
+    background: url("../../resources/phptek18/sponsors.jpg") center bottom no-repeat #ffd920;
+    background-size: contain;
+    animation-name: eventSlides;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 10s;
+    animation-direction: alternate; }
+
+@keyframes eventSlides {
+  0% {
+    opacity: 0; }
+  49% {
+    opacity: 0; }
+  51% {
+    opacity: 1; }
+  100% {
+    opacity: 1; } }
