@@ -59,9 +59,6 @@
     ],
     [
         "alerts.md",
-        "alerts-critical.md",
-        "alerts-warning.md",
-        "alerts-notice.md",
         "email-updates.md"
     ],
     [
