@@ -8,7 +8,7 @@ While the company ended up not being the right fit for me, the lessons learned f
 
 Attendees will gain insight into the technology needs and available solutions for a small, web-based publisher, and the criteria that led to each decision.
 
-:sparkles: **[View Slides](https://stevegrunwell.github.io/greener-pastures)** :sparkles:
+:sparkles: **[View Slides](https://stevegrunwell.github.io/greener-pastures/)** :sparkles:
 
 ## Presentation History
 
