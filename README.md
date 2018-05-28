@@ -12,4 +12,4 @@ Attendees will gain insight into the technology needs and available solutions fo
 
 ## Presentation History
 
-* [php[tek] 2018](https://tek18.phparch.com/) - June 1, 2018 ([Joind.in](https://joind.in/talk/c2f8f))
+* [php[tek] 2018](https://tek18.phparch.com/speakers/steve-grunwell/) - June 1, 2018 ([Joind.in](https://joind.in/talk/c2f8f))
