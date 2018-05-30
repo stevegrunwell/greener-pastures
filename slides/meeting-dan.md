@@ -7,7 +7,7 @@
 
 Note:
 
-* Introduced by mutual acquaintance
-* Lead-gen can be $$$, but I didn't have experience
+* Email from Dan Green, who got my name from a mutual acquaintance
+* Lead-gen can be lucrative, but I didn't have experience in the space
 * Blank slate
 * Ability to build team after initial build

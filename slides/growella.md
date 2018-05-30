@@ -10,6 +10,5 @@ Note:
     - Skips ads in favor of lead-gen
     - Emphasis on transparency
 * Produces original content (inc. video series), skips stock photography
-* First hires: Media Producer, Director of UX, Director of BizDev, + Director of Technology
-    - Originally Director of Engineering
-* Too appealing to not give it a shot...
+* First hires: Media Producer, Director of BizDev, Director of Technology, and Director of UX
+    - Refused to let UX be an afterthought

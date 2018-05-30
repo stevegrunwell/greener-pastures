@@ -2,4 +2,6 @@
 
 Note:
 
-To paraphrase the late, great Dewey Cox: Hi, I'm Steve Grunwell, and it looks like I've got some provin' myself to do.
+For what I was looking for at the time, this all sounded amazing
+
+Put in my notice at 10up...

@@ -2,6 +2,6 @@
 
 Note:
 
-* There's nothing inherently wrong with MongoDB, but I'm dumb
-* Pritunl can be difficult to troubleshoot
+* There's nothing inherently wrong with MongoDB, but it's not something I work with often
+    - Can make troubleshooting difficult
 * Even with low traffic, a $5/month Digital Ocean droplet would blow up

@@ -13,5 +13,7 @@ Note:
 
 * Every few weeks, something was broken
     - Often noticed because someone needed it
+    - An unreliable VPN == an unused VPN
 * Ultimately better to pay someone
 * Consider buying a $100/year subscription to IVPN for employees so they'll always use it?
+    - Bonus: clear the company isn't monitoring
