@@ -16,3 +16,5 @@ Lot of moving parts == lots to keep track of.
 * Critical: site outage, intrusion detection
 * Important: degraded performance, deployment failure
 * Notice: New post published, successful deployment
+
+Prevent alert fatigue
