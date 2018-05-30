@@ -7,7 +7,6 @@
 
 Note:
 
-* Eric Mann introduced me to it
 * Had used it for personal VPNs when traveling before
-* Can even get around some airlines' wifi restrictions
+    - Had literally set it up via my phone on a DO box at one point
 * BUT there's a big red flag...

@@ -22,19 +22,12 @@
         "basecamp.md",
         "jira.md",
         "security.md",
-        "security-policy.md",
         "1password-for-teams.md",
         "pritunl.md",
         "pritunl2.md",
         "pritunl3.md",
-        "technical-risk-assessment.md",
-        "technical-risk-assessment2.md",
-        "technical-risk-assessment3.md",
         "file-storage.md",
         "source-control.md",
-        "github.md",
-        "github2.md",
-        "bitbucket.md",
         "browserstack.md"
     ],
     [
@@ -49,17 +42,21 @@
         "marketing-email.md",
         "transactional-email.md",
         "analytics.md",
-        "backups.md",
-        "logs.md"
+        "backups.md"
     ],
     [
         "documentation.md",
         "gsuite-docs.md",
         "engineering-blog.md",
+        "security-policy.md",
+        "technical-risk-assessment.md",
+        "technical-risk-assessment2.md",
+        "technical-risk-assessment3.md",
         "hosting-repo.md"
     ],
     [
         "alerts.md",
+        "logs.md",
         "email-updates.md"
     ],
     [

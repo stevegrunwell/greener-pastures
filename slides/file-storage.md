@@ -11,5 +11,4 @@ Note:
     - Video shot in 4K
     - RAID-0 configuration
     - Working on off-site backups (Glacier)
-* AWS for backups
-    - More in a minute
+* AWS (S3)
