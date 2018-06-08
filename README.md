@@ -12,4 +12,5 @@ Attendees will gain insight into the technology needs and available solutions fo
 
 ## Presentation History
 
+* [WordCamp Kent 2018](https://2018.kent.wordcamp.org/) - June 9, 2018
 * [php[tek] 2018](https://tek18.phparch.com/speakers/steve-grunwell/) - June 1, 2018 ([Joind.in](https://joind.in/talk/c2f8f))
